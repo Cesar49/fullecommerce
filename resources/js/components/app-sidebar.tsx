@@ -20,7 +20,7 @@ const mainNavItems: NavItem[] = [
     },
     {
         title: 'Admin',
-        href: 'admin/admins',
+        href: '/admin/admins',
         icon: User,
     },
 ];
